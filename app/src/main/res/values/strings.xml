@@ -3,4 +3,5 @@
     <string name="lbl_decide">DECIDE!</string>
     <string name="btn_add_food">Add Food</string>
     <string name="lbl_add_food">add new food..</string>
+    <string name="lbl_msm_empty">Cannot add because is empty</string>
 </resources>
